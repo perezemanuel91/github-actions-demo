@@ -1,5 +1,5 @@
-![Python application test with Github Actions](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
-
+[![AWS 3.9](https://github.com/perezemanuel91/github-actions-demo/actions/workflows/aws.yml/badge.svg)](https://github.com/perezemanuel91/github-actions-demo/actions/workflows/aws.yml)
+[![GCP Python 3.7](https://github.com/perezemanuel91/github-actions-demo/actions/workflows/gcp.yml/badge.svg)](https://github.com/perezemanuel91/github-actions-demo/actions/workflows/gcp.yml)
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
 
